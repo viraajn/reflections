@@ -19,8 +19,14 @@ Branches allow you to work on a separate component of the project without affect
 
 How do the diagrams help you visualize the branch structure?
 
+We can easily spot the branch paths and which commits were included in those branches and the others
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+We combine the changes introduced in an experimental branch in our main flow. The diagrams helps us identify where the two branches were merged
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+If there are no conflicts in the two codes automatic merge saves time
