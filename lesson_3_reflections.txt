@@ -26,4 +26,4 @@ We can use a different version control system like SVN but it doesn't provide th
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+It may involve some experimental changes or bug fixes you are working on that doesn't need to affect the master till it is resolved
