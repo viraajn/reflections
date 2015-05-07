@@ -21,7 +21,7 @@ You can see the commit logs and changes offline.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+We can use a different version control system like SVN but it doesn't provide the features Git has. Without Github it will be difficult to perform functions that gothub provides but we can use some other remote repository.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
